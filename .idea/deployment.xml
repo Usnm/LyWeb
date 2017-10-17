@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="KriticalWeb">
+    <serverData>
+      <paths name="KriticalWeb">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="themeforest-19613210-fitnesspro-html-template(1)/Template_Files" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
