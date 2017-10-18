@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cab6a21e-f32c-4b3a-9e19-44ff9374f29b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/footer.php" afterPath="$PROJECT_DIR$/include/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/header.php" afterPath="$PROJECT_DIR$/include/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/other_files/index.html" afterPath="$PROJECT_DIR$/other_files/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop.php" afterPath="$PROJECT_DIR$/shop.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,18 +53,18 @@
       <file leaf-file-name="shop.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="59" column="62" lean-forward="true" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
+            <state relative-caret-position="268">
+              <caret line="57" column="151" lean-forward="false" selection-start-line="57" selection-start-column="151" selection-end-line="57" selection-end-column="151" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/include/header.php">
+      <file leaf-file-name="shop-single.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop-single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="1091">
+              <caret line="101" column="33" lean-forward="false" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -182,8 +175,9 @@
         <option value="$PROJECT_DIR$/include/partners.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/include/join-us.php" />
-        <option value="$PROJECT_DIR$/shop.php" />
         <option value="$PROJECT_DIR$/include/header.php" />
+        <option value="$PROJECT_DIR$/shop.php" />
+        <option value="$PROJECT_DIR$/shop-single.php" />
       </list>
     </option>
   </component>
@@ -264,20 +258,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LyWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LyWeb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="include" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -287,11 +267,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/other_files" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/other_files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -393,12 +373,12 @@
       <workItem from="1508157903696" duration="5668000" />
       <workItem from="1508222132338" duration="1668000" />
       <workItem from="1508329833659" duration="353000" />
-      <workItem from="1508335372966" duration="93000" />
+      <workItem from="1508335372966" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16293000" />
+    <option name="totallyTimeSpent" value="17367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="722" extended-state="6" />
@@ -814,7 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-single.php" />
     <entry file="file://$PROJECT_DIR$/other_files/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -823,18 +802,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop.php">
+    <entry file="file://$PROJECT_DIR$/include/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="59" column="62" lean-forward="true" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
+        <state relative-caret-position="75">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/header.php">
+    <entry file="file://$PROJECT_DIR$/shop.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="268">
+          <caret line="57" column="151" lean-forward="false" selection-start-line="57" selection-start-column="151" selection-end-line="57" selection-end-column="151" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1091">
+          <caret line="101" column="33" lean-forward="false" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
           <folding />
         </state>
       </provider>

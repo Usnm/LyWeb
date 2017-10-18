@@ -54,8 +54,8 @@
 										<div class="left-box align-left">
 											<p class="small"><i class="fa fa-shopping-cart" aria-hidden="true"></i>Add to cart</p>
 										</div> <!-- end .left-box -->
-										<div class="right-box align-right">	
-											<p class="small"><i class="fa fa-star" aria-hidden="true"></i><a href="shop-single.php">de détails
+										<div class="right-box align-right">
+                                            <a href="shop-single.php"><p class="small"><i class="fa fa-plus" aria-hidden="true"></i>plus de détails</p></a>
 										</div> <!-- end .right-box -->
 									</div> <!-- end .boxes -->
 								</div> <!-- end .product-details -->
