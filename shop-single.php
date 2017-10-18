@@ -15,8 +15,8 @@
 		<div class="section page-title inner text-center">
 			<div class="inner">
 				<h3><a href="index.php">Accueil</a><i class="fa fa-angle-right" aria-hidden="true"></i><a href="shop.php">ProjectID</a><i class="fa fa-angle-right" aria-hidden="true"></i><a href="#">Details du produit</a></h3>
-				<h1>Gym<span class="orange">Weight rack</span></h1>
-				<p>This is one of our newest gym weight racks. It is made from<br>very good quality and smooth materials.</p>
+				<h1>Détails du <span class="orange">produit</span></h1>
+				<p>Vous trouverez ici un détail du produit selectionné précedemment. <br>Si toutefois une de vos questions n'a pas trouvé de réponses, contactez-nous !</p>
 			</div> <!-- end .inner -->
 		</div> <!-- end .page-title -->
 
@@ -24,7 +24,7 @@
 			<div class="inner">
 				<div class="container">
 					<div class="row">
-						<p><a href="#0" class="return-link text-left"><<  Retour</a></p>
+						<p><a href="shop.php" class="return-link text-left"><<  Retour</a></p>
 						<div class="product-single">
 							<div class="col-md-6 product-single-image">
 								<!-- <div class="product-single-image"> -->

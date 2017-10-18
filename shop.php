@@ -29,14 +29,14 @@
 						<img src="./images/barbell-icon.png" alt="barbell-icon" class="img-responsive">
 					</div>					
 					<div class="section-title-description">
-						<p>Ici se trouvent tous les produits que nous avons ajouté à ProjectID.<br>Choisissez le meilleur pour votre projet !</p>
+						<p>Ici se trouvent tous les produits que nous avons ajouté à ProjectID.<br>Utilisez ces boutons pour filter votre recherche !</p>
 					</div>
 					<div id="product3Col-filters" class="product-filters">
-						<button class="active" data-filter="*"><span>All</span></button>
-						<button data-filter=".protein"><span>Protein</span></button>
-						<button data-filter=".vitamins"><span>Vitamins</span></button>
-						<button data-filter=".accessories"><span>Accessories</span></button>
-						<button data-filter=".more"><span>More</span></button>
+						<button class="active" data-filter="*"><span>Tout</span></button>
+						<button data-filter=".protein"><span>Standard</span></button>
+						<button data-filter=".vitamins"><span>Front-Office</span></button>
+						<button data-filter=".accessories"><span>Back-office</span></button>
+						<button data-filter=".more"><span>Divers</span></button>
 					</div> <!-- end .portfolio-filters -->
 					<div id="product3Col" class="products product3Col">
 						<div class="product-sizer"></div> <!-- DO NOT REMOVE -->
@@ -103,6 +103,27 @@
 								</div> <!-- end .product-details -->
 							</figure>
 						</div> <!-- end .item -->
+                        <div class="item more">
+                            <figure>
+                                <div class="product-featured-img">
+                                    <img src="images/product-grid03.jpg" alt="product" class="img-responsive">
+                                    <i class="fa fa-plus" aria-hidden="true"></i>
+                                </div> <!-- end .product-featured-img -->
+                                <div class="product-details">
+                                    <p class="price"><sup>$</sup>170</p>
+                                    <h2 class="dark product-title">Gym stepper</h2>
+                                    <p class="product-type">Equipment</p>
+                                    <div class="boxes">
+                                        <div class="left-box align-left">
+                                            <p class="small"><i class="fa fa-shopping-cart" aria-hidden="true"></i>Add to cart</p>
+                                        </div> <!-- end .left-box -->
+                                        <div class="right-box align-right">
+                                            <p class="small"><i class="fa fa-star" aria-hidden="true"></i>4.75 (25 ratings)</p>
+                                        </div> <!-- end .right-box -->
+                                    </div> <!-- end .boxes -->
+                                </div> <!-- end .product-details -->
+                            </figure>
+                        </div> <!-- end .item -->
 						<div class="item protein financial-services">
 							<figure>
 								<div class="product-featured-img">

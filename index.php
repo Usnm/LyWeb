@@ -23,11 +23,19 @@
 								<div class="button-row">
 									<div class="btn-group">
 										<button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-										<span><i class="fa fa-users"></i></span>
+										<span><i class="lnr lnr-gift"></i></span>
 										</button>
-										<a href="#0" class="button orange"><div>Commencer l'experience</div></a>
+                                        <a href="#pricing-section" class="button orange"><div>Voir nos offres</div></a>
 									</div> <!-- end .btn-group -->
 								</div> <!-- end .button-row -->
+                                <div class="button-row">
+                                    <div class="btn-group">
+                                        <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span><i class="lnr lnr-screen"></i></span>
+                                        </button>
+                                        <a href="shop.php" class="button orange"><div>Accéder à ProjectID</div></a>
+                                    </div> <!-- end .btn-group -->
+                                </div> <!-- end .button-row -->
 							</div> <!-- end .text-inner -->
 						</div> <!-- end .col-sm-5 -->
 						<div class="col-sm-5 image">
@@ -99,7 +107,7 @@
 											<p class="small"><i class="fa fa-briefcase"></i>Site web perso</p>
 										</div> <!-- end .left-box -->
 										<div class="right-box align-right">	
-											<p class="small"><i class="fa fa-linkedin"></i>Mon LinkedIn</p>
+                                            <a rel="nofollow" target="_blank"href="https://www.linkedin.com/in/jaysonkaced"><p class="small"><i class="fa fa-linkedin"></i>Mon LinkedIn</p></a>
 										</div> <!-- end .right-box -->
 									</div> <!-- end .boxes -->
 								</div> <!-- end .trainer-details -->
@@ -116,7 +124,7 @@
 											<p class="small"><i class="fa fa-briefcase"></i>Site web perso</p>
 										</div> <!-- end .left-box -->
 										<div class="right-box align-right">	
-											<p class="small"><i class="fa fa-linkedin"></i>Mon LinkedIn</p>
+                                            <a rel="nofollow" target="_blank" href="https://www.linkedin.com/in/arnaud-dailler-b79492122/"><p class="small"><i class="fa fa-linkedin"></i>Mon LinkedIn</p></a>
 										</div> <!-- end .right-box -->								
 									</div> <!-- end .boxes -->
 								</div> <!-- end .trainer-details -->
