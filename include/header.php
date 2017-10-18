@@ -20,7 +20,7 @@
                     <li>
                         <a href="tel:1900-45-20"><i class="fa fa-phone" aria-hidden="true"></i>06.36.98.58.93</a>
                     </li>
-                    <li><a href="mailto:kriticalwebs@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>kriticalweb@gmail.com</a></li>
+                    <li><a href="mailto:LyWeb@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>LyWeb@gmail.com</a></li>
                 </ul>
                 </nav> <!-- end .top-contacts -->
                 <nav class="top-contacts right">
@@ -57,7 +57,7 @@
     <div class="search-bar">
         <div class="container">
             <form class="search-form">
-                <input type="text" name="search-text" id="search-text" placeholder="Rechercher sur kriticalweb.fr">
+                <input type="text" name="search-text" id="search-text" placeholder="Rechercher sur LyWeb.fr">
                 <button type="submit">Recherche</button>
             </form>
             <a href="" class="search-close"><i class="fa fa-close" aria-hidden="true"></i></a>

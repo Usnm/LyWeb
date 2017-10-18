@@ -55,7 +55,7 @@
 											<p class="small"><i class="fa fa-shopping-cart" aria-hidden="true"></i>Add to cart</p>
 										</div> <!-- end .left-box -->
 										<div class="right-box align-right">	
-											<p class="small"><i class="fa fa-star" aria-hidden="true"></i>4.75 (25 ratings)</p>
+											<p class="small"><i class="fa fa-star" aria-hidden="true"></i><a href="shop-single.php">de détails
 										</div> <!-- end .right-box -->
 									</div> <!-- end .boxes -->
 								</div> <!-- end .product-details -->

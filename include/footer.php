@@ -40,7 +40,7 @@
                             <div class="contact-info">
                                 <ul class="list-unstyled">
                                     <li><a href="http://maps.apple.com/?q=51.507269,-0.127695"><i class="fa fa-map-marker" aria-hidden="true"></i>Lyon</a></li>
-                                    <li><a href="mailto:kriticalweb@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>kriticalweb@gmail.com</a></li>
+                                    <li><a href="mailto:LyWeb@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i>LyWeb@gmail.com</a></li>
                                 </ul>
                             </div> <!-- end .contact-info -->
                         </div> <!-- end .col-md-12 -->
